@@ -2,3 +2,7 @@
 mkswap /root/swapfile
 swapon /root/swapfile
 /root/swapfile swap swap defaults 0 0
+
+
+
+
